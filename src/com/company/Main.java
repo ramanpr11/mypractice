@@ -11,6 +11,7 @@ public class Main {
             x=x*i;
         }
         System.out.println(x);
+        System.out.println("making changes for commit");
 
         //int min = minFunction(num, 2);
         //System.out.println(min);
@@ -29,5 +30,6 @@ public class Main {
 
         a[0] = 42;
         return a[0];
+
     }
 }
